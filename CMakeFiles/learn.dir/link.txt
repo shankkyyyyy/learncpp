@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/learn.dir/day5.cc.o -o learn 

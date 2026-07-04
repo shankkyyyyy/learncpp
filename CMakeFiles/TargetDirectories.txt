@@ -1,0 +1,3 @@
+/home/gigu/learncpp/CMakeFiles/learn.dir
+/home/gigu/learncpp/CMakeFiles/edit_cache.dir
+/home/gigu/learncpp/CMakeFiles/rebuild_cache.dir
