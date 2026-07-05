@@ -4,4 +4,4 @@ project(Learning)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(learn day5.cc)
+add_executable(learn Files/day6.cc)

@@ -129,29 +129,29 @@ learn/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/build
 .PHONY : learn/fast
 
-day5.o: day5.cc.o
-.PHONY : day5.o
+Files/day6.o: Files/day6.cc.o
+.PHONY : Files/day6.o
 
 # target to build an object file
-day5.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/day5.cc.o
-.PHONY : day5.cc.o
+Files/day6.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/Files/day6.cc.o
+.PHONY : Files/day6.cc.o
 
-day5.i: day5.cc.i
-.PHONY : day5.i
+Files/day6.i: Files/day6.cc.i
+.PHONY : Files/day6.i
 
 # target to preprocess a source file
-day5.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/day5.cc.i
-.PHONY : day5.cc.i
+Files/day6.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/Files/day6.cc.i
+.PHONY : Files/day6.cc.i
 
-day5.s: day5.cc.s
-.PHONY : day5.s
+Files/day6.s: Files/day6.cc.s
+.PHONY : Files/day6.s
 
 # target to generate assembly for a file
-day5.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/day5.cc.s
-.PHONY : day5.cc.s
+Files/day6.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learn.dir/build.make CMakeFiles/learn.dir/Files/day6.cc.s
+.PHONY : Files/day6.cc.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... learn"
-	@echo "... day5.o"
-	@echo "... day5.i"
-	@echo "... day5.s"
+	@echo "... Files/day6.o"
+	@echo "... Files/day6.i"
+	@echo "... Files/day6.s"
 .PHONY : help
 
 

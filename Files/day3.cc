@@ -34,6 +34,7 @@ class M
             out << ref.x; 
             return out; 
         }
+        
     private:
         int x; 
 };

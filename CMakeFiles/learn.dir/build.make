@@ -69,28 +69,28 @@ include CMakeFiles/learn.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/learn.dir/flags.make
 
-CMakeFiles/learn.dir/day5.cc.o: CMakeFiles/learn.dir/flags.make
-CMakeFiles/learn.dir/day5.cc.o: day5.cc
-CMakeFiles/learn.dir/day5.cc.o: CMakeFiles/learn.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/gigu/learncpp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learn.dir/day5.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/learn.dir/day5.cc.o -MF CMakeFiles/learn.dir/day5.cc.o.d -o CMakeFiles/learn.dir/day5.cc.o -c /home/gigu/learncpp/day5.cc
+CMakeFiles/learn.dir/Files/day6.cc.o: CMakeFiles/learn.dir/flags.make
+CMakeFiles/learn.dir/Files/day6.cc.o: Files/day6.cc
+CMakeFiles/learn.dir/Files/day6.cc.o: CMakeFiles/learn.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/gigu/learncpp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/learn.dir/Files/day6.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/learn.dir/Files/day6.cc.o -MF CMakeFiles/learn.dir/Files/day6.cc.o.d -o CMakeFiles/learn.dir/Files/day6.cc.o -c /home/gigu/learncpp/Files/day6.cc
 
-CMakeFiles/learn.dir/day5.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/learn.dir/day5.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gigu/learncpp/day5.cc > CMakeFiles/learn.dir/day5.cc.i
+CMakeFiles/learn.dir/Files/day6.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/learn.dir/Files/day6.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/gigu/learncpp/Files/day6.cc > CMakeFiles/learn.dir/Files/day6.cc.i
 
-CMakeFiles/learn.dir/day5.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/learn.dir/day5.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gigu/learncpp/day5.cc -o CMakeFiles/learn.dir/day5.cc.s
+CMakeFiles/learn.dir/Files/day6.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/learn.dir/Files/day6.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/gigu/learncpp/Files/day6.cc -o CMakeFiles/learn.dir/Files/day6.cc.s
 
 # Object files for target learn
 learn_OBJECTS = \
-"CMakeFiles/learn.dir/day5.cc.o"
+"CMakeFiles/learn.dir/Files/day6.cc.o"
 
 # External object files for target learn
 learn_EXTERNAL_OBJECTS =
 
-learn: CMakeFiles/learn.dir/day5.cc.o
+learn: CMakeFiles/learn.dir/Files/day6.cc.o
 learn: CMakeFiles/learn.dir/build.make
 learn: CMakeFiles/learn.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/gigu/learncpp/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable learn"

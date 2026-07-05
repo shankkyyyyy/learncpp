@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/learn.dir/day5.cc.o"
-  "CMakeFiles/learn.dir/day5.cc.o.d"
+  "CMakeFiles/learn.dir/Files/day6.cc.o"
+  "CMakeFiles/learn.dir/Files/day6.cc.o.d"
   "learn"
   "learn.pdb"
 )

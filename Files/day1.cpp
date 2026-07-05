@@ -38,10 +38,6 @@ class Animal
 
 int main()
 {
-	Animal a; 
-	Animal b = {10,20,30}; 
-	Animal c = {"nioahl"}; 
-	Animal Copy_a = b; 
-	Copy_a.Attr();  	
+		
 	return 0;
 }
