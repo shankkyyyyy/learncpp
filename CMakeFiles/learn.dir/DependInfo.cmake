@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/gigu/learncpp/Files/day6.cc" "CMakeFiles/learn.dir/Files/day6.cc.o" "gcc" "CMakeFiles/learn.dir/Files/day6.cc.o.d"
+  "/home/gigu/learncpp/Files/day7.cc" "CMakeFiles/learn.dir/Files/day7.cc.o" "gcc" "CMakeFiles/learn.dir/Files/day7.cc.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

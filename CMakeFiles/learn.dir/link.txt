@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/learn.dir/Files/day6.cc.o -o learn 
+/usr/bin/c++ CMakeFiles/learn.dir/Files/day7.cc.o -o learn 
