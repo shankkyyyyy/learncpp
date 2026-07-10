@@ -1,0 +1,3 @@
+/home/gigu/learncpp/cmake/CMakeFiles/Day8_run.dir
+/home/gigu/learncpp/cmake/CMakeFiles/edit_cache.dir
+/home/gigu/learncpp/cmake/CMakeFiles/rebuild_cache.dir

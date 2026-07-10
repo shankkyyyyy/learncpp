@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Day8_run.dir/home/gigu/learncpp/src/Day8/Day8.cc.o -o Day8_run 
