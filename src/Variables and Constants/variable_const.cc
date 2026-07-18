@@ -16,14 +16,18 @@ int main()
     bool c = true; // 1 byte
     short int d = 0; // 2 bytes 
     long long e = 0; // 8 bytes  
-    std::string a = "Name"; 
+    std::string a = "Name"; // 32 bytes 
+    constexpr int h = 10*200;  
+   
 
-   PrintSize(x); 
-   PrintSize(y); 
+    PrintSize(x); // this is a datatype of integer, the size of the variable is 4 bytes  
+                  // for all integer (int) datatype the size will be 4 bytes  
+   PrintSize(y); // todo - write this. 
    PrintSize(z); 
    PrintSize(b); 
    PrintSize(c); 
    PrintSize(d); 
    PrintSize(e); 
    PrintSize(a); 
+   PrintSize(h); 
 }
