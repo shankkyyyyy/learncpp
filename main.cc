@@ -12,6 +12,7 @@ int main() {
 	    std::string B; 
 	    cin >> B; 
 	    for (int i = 0; i < 14; i++)
+//none
 	    {
 	        if(B[i] == 'C')
 	            {
