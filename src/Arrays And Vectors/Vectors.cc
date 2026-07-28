@@ -44,12 +44,14 @@ class MyVector
         delete[] Array; 
     }
     
-    
 };
+
+// vectors finished. 
 
 int main()
 {
     MyVector<int> a(10);
+    
     for(auto& c: a)
     {
         std::cin >> c; 
